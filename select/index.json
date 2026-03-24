@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛はこんなに哀しいんか",
+  "base_artist": "ポップしなないで",
+  "createdAt": "2026-03-24T15:36:03.818124Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛はこんなに哀しいんか",
+      "artist": "ポップしなないで",
+      "has_synced": false,
+      "path": "select/pl_01_愛はこんなに哀しいんか_ポップしなないで.txt"
+    }
+  ]
+}
